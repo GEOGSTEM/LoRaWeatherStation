@@ -1,6 +1,9 @@
 # LoRaWeatherStation
 
-**Saving your time, you can download the libraries.zip here for all sensor libraries we have to use.**
+**Saving your time, you can download the whole folder as a zip file with green "Code" button at top right corner.**
+Include
+-> sensor libraries
+-> exercise scripts
 
 
 ## Links for original sensor libraries downloading
